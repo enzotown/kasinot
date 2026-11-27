@@ -1,0 +1,88 @@
+Rätt gissat! Det blev röd
+Rätt gissat! Det blev gul
+Rätt gissat! Det blev grön
+Rätt gissat! Det blev blå
+Rätt gissat! Det blev lila
+Rätt gissat! Det blev orange
+Rätt gissat! Det blev ett
+Rätt gissat! Det blev två
+Rätt gissat! Det blev tre
+Rätt gissat! Det blev fyra
+Rätt gissat! Det blev fem
+Rätt gissat! Det blev sex
+Rätt gissat! Det blev stjärna
+Rätt gissat! Det blev hjärta
+Rätt gissat! Det blev måne
+Rätt gissat! Det blev sol
+Det blev röd.
+Det blev gul.
+Det blev grön.
+Det blev blå.
+Det blev lila.
+Det blev orange.
+Det blev ett.
+Det blev två.
+Det blev tre.
+Det blev fyra.
+Det blev fem.
+Det blev sex.
+Det blev stjärna.
+Det blev hjärta.
+Det blev måne.
+Det blev sol.
+Du gissade röd.
+Du gissade gul.
+Du gissade grön.
+Du gissade blå.
+Du gissade lila.
+Du gissade orange.
+Du gissade ett.
+Du gissade två.
+Du gissade tre.
+Du gissade fyra.
+Du gissade fem.
+Du gissade sex.
+Du gissade stjärna.
+Du gissade hjärta.
+Du gissade måne.
+Du gissade sol.
+Röd!
+Gul!
+Grön!
+Blå!
+Lila!
+Orange!
+Ett!
+Två!
+Tre!
+Fyra!
+Fem!
+Sex!
+Stjärna!
+Hjärta!
+Måne!
+Sol!
+Röd? Tryck på snurra hjulet!
+Röd? Tryck på slå tärningen!
+Röd? Tryck på dra ett kort!
+Gul? Tryck på snurra hjulet!
+Gul? Tryck på slå tärningen!
+Gul? Tryck på dra ett kort!
+Grön? Tryck på snurra hjulet!
+Grön? Tryck på slå tärningen!
+Grön? Tryck på dra ett kort!
+Blå? Tryck på snurra hjulet!
+Blå? Tryck på slå tärningen!
+Blå? Tryck på dra ett kort!
+Lila? Tryck på snurra hjulet!
+Lila? Tryck på slå tärningen!
+Lila? Tryck på dra ett kort!
+Orange? Tryck på snurra hjulet!
+Orange? Tryck på slå tärningen!
+Orange? Tryck på dra ett kort!
+Snurra hjulet!
+Slå tärningen!
+Dra ett kort!
+Vad duktig du är!
+Igen!
+Visste du? Att räkna hur många gånger något kommer upp kallas statistik. Snurrar man många, många gånger kommer alla färger upp ungefär lika ofta. Men gissar man bara en enda gång är chansen liten att man väljer rätt färg. Ungefär lika liten som att pappa har ketchup på glassen, eller att mamma äter korv med sylt.
